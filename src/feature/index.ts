@@ -1,0 +1,1 @@
+export {_console} from './first';
