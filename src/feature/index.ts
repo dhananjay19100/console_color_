@@ -1,2 +1,2 @@
 export {_console} from './first';
-export {MyCustomElement} from './second'
+export {addHighlightTags} from './third'
