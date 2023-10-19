@@ -4,11 +4,11 @@ Console Styler is a simple NPM package that allows you to style your console mes
 ## Installation
 You can install Console Styler using NPM:
 
-```bash
+bash
 npm i console_color_beauty
 
 
-# Usage
+## How to Usage
 const { _console } = require('console-styler'); // For JavaScript
 // OR
 import { _console } from 'console-styler'; // For TypeScript
@@ -20,7 +20,7 @@ _console('Hello, World!', 'blue');
 _console('Success!', 'white', 'green');
 
 
-# Author
+## Author
 Dhananjay Manjare
 dhananjay19100@iiitnr.edu.in
 
