@@ -9,9 +9,9 @@ npm i console_color_beauty
 
 
 ## How to Usage
-const { _console } = require('console-styler'); // For JavaScript
+const { _console } = require('console_color_beauty'); // For JavaScript
 // OR
-import { _console } from 'console-styler'; // For TypeScript
+import { _console } from 'console_color_beauty'; // For TypeScript
 
 // Example 1: Custom text color with default background color
 _console('Hello, World!', 'blue');
